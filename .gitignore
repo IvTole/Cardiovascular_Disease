@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Otras
+.vscode/
+data/Cardiovascular_Disease_Dataset.csv
+
 # Distribution / packaging
 .Python
 build/
